@@ -1,33 +1,33 @@
-# 👋 Hi there, I'm Keshav Dev Sharma
+# 👋 Hey, I’m Keshav Dev Sharma
 
-I'm a passionate developer focused on building innovative solutions and contributing to open-source projects. Currently, I'm exploring the realms of AI, web development, and system programming.
+I’m a full-stack dev, blockchain tinkerer, and AI enthusiast. I build cool stuff, break things (safely 😅), and love contributing to open-source.
 
-## 🔧 Technologies & Tools
+I like clean code, clever hacks, and solving real-world problems with tech.
 
-* **Languages**: Python, JavaScript, Shell
-* **Frameworks & Libraries**: Django, Flask, React
-* **Tools**: Docker, Git, VS Code
-* **Databases**: PostgreSQL, MongoDB
-* **Platforms**: Linux, Windows
+## ⚡ Tech Stack
 
-## 📈 GitHub Stats
+* **Languages**: Python | JavaScript | C | Shell
+* **Frontend**: React | HTML | CSS | Tailwind
+* **Backend**: Flask | Django | Node.js
+* **Database**: MongoDB | PostgreSQL
+* **Other Stuff**: Docker | Git | Linux | Blockchain & Smart Contracts
+
+## 🌟 Featured Projects
+
+| Project                                                             | Description                                               |
+| ------------------------------------------------------------------- | --------------------------------------------------------- |
+| [**MediChain**](https://github.com/HWKDS/MediChain)                 | Blockchain-based drug authenticity verification system 💊 |
+| [**Simple-DNS-Server**](https://github.com/HWKDS/Simple-DNS-Server) | Lightweight DNS server, made from scratch 🌐              |
+| [**METAVERSE**](https://github.com/HWKDS/METAVERSE)                 | Open-source virtual world project 🕶️                     |
+| [**PrivatePing**](https://github.com/HWKDS/privateping)             | Secure private messaging app 🔒                           |
+| [**Enum**](https://github.com/HWKDS/Enum)                           | Shell-based enumeration tool for pentesters 🛠️           |
+| [**Epicare**](https://github.com/HWKDS/Epicare)                     | AI-powered dermatology assistant 🩺                       |
+
+## 📊 GitHub Stats
 
 ![Keshav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HWKDS\&show_icons=true\&hide_title=true\&hide=prs\&count_private=true\&theme=radical)
 
-## 📌 Featured Repositories
-
-* [**Enum**](https://github.com/HWKDS/Enum): A shell-based enumeration tool.
-* [**Epicare**](https://github.com/HWKDS/Epicare): An AI-powered dermatology assistant.
-* [**llmware**](https://github.com/HWKDS/llmware): A framework for large language model applications.
-
-## 📬 Let's Connect
+## 🌐 Connect with Me
 
 * [LinkedIn](https://www.linkedin.com/in/keshav-dev-sharma)
 * [Twitter](https://twitter.com/HWKDS)
-* [Website](https://keshav.dev)
-
-Feel free to explore my repositories and reach out if you're interested in collaborating on exciting projects!
-
----
-
-This README maintains a professional tone, highlighting your skills, projects, and ways to connect, without the use of large GIFs or unnecessary embellishments.
