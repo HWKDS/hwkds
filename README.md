@@ -4,6 +4,8 @@ I’m a full-stack dev, blockchain tinkerer, and AI enthusiast. I build cool stu
 
 I like clean code, clever hacks, and solving real-world problems with tech.
 
+---
+
 ## ⚡ Tech Stack
 
 * **Languages**: Python | JavaScript | C | Shell
@@ -11,6 +13,8 @@ I like clean code, clever hacks, and solving real-world problems with tech.
 * **Backend**: Flask | Django | Node.js
 * **Database**: MongoDB | PostgreSQL
 * **Other Stuff**: Docker | Git | Linux | Blockchain & Smart Contracts
+
+---
 
 ## 🌟 Featured Projects
 
@@ -23,9 +27,23 @@ I like clean code, clever hacks, and solving real-world problems with tech.
 | [**Enum**](https://github.com/HWKDS/Enum)                           | Shell-based enumeration tool for pentesters 🛠️           |
 | [**Epicare**](https://github.com/HWKDS/Epicare)                     | AI-powered dermatology assistant 🩺                       |
 
-## 📊 GitHub Stats
+---
 
-![Keshav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HWKDS\&show_icons=true\&hide_title=true\&hide=prs\&count_private=true\&theme=radical)
+## 🤝 Open Source & Collabs
+
+* Contributed to **METAVERSE**, **PrivatePing**, and other projects via PRs
+* Experimented with AI models & blockchain tools in personal repos
+* Always learning, hacking, and sharing cool stuff
+
+---
+
+## 📊 Activity & Vibes
+
+I like to keep my GitHub active with small commits, docs, and experiments. Here’s a **streak overview** instead of raw commit numbers:
+
+![Keshav's Streak](https://streak-stats.demolab.com?user=HWKDS\&theme=radical)
+
+---
 
 ## 🌐 Connect with Me
 
