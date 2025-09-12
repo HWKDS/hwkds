@@ -1,9 +1,3 @@
-[![JigyasuRajput (Jigyasu Rajput) · GitHub](https://images.openai.com/thumbnails/url/OS85zXicu1mUUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4sz3XMssg1jTBIMw8ztjB29g_yivAOTk1MTPbwMquwdEn2K3e1NAzKMfM1iCoJtrAI9bTwT0oJM61UKwYAlU4nlQ)](https://github.com/JigyasuRajput?utm_source=chatgpt.com)
-
-Certainly! Here's a professional and concise GitHub profile README tailored for your GitHub username, `HWKDS` (Keshav Dev Sharma), inspired by the structure and style of [JigyasuRajput's README](https://github.com/JigyasuRajput):
-
----
-
 # 👋 Hi there, I'm Keshav Dev Sharma
 
 I'm a passionate developer focused on building innovative solutions and contributing to open-source projects. Currently, I'm exploring the realms of AI, web development, and system programming.
