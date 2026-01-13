@@ -37,14 +37,6 @@ I like clean code, clever hacks, and solving real-world problems with tech.
 
 ---
 
-## 📊 Activity & Vibes
-
-I like to keep my GitHub active with small commits, docs, and experiments. Here’s a **streak overview** instead of raw commit numbers:
-
-![Keshav's Streak](https://streak-stats.demolab.com?user=HWKDS\&theme=radical)
-
----
-
 ## 🌐 Connect with Me
 
 * [LinkedIn](https://www.linkedin.com/in/keshav-dev-sharma)
