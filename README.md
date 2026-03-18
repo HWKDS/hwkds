@@ -1,43 +1,48 @@
-# 👋 Hey, I’m Keshav Dev Sharma
+# Keshav Dev Sharma
 
-I’m a full-stack dev, blockchain tinkerer, and AI enthusiast. I build cool stuff, break things (safely 😅), and love contributing to open-source.
-
-I like clean code, clever hacks, and solving real-world problems with tech.
-
----
-
-## ⚡ Tech Stack
-
-* **Languages**: Python | JavaScript | C | Shell
-* **Frontend**: React | HTML | CSS | Tailwind
-* **Backend**: Flask | Django | Node.js
-* **Database**: MongoDB | PostgreSQL
-* **Other Stuff**: Docker | Git | Linux | Blockchain & Smart Contracts
+Backend-focused full-stack developer building APIs, systems, and practical applications.  
+Interested in solving real-world problems using clean and efficient code.
 
 ---
 
-## 🌟 Featured Projects
+## Projects
 
-| Project                                                             | Description                                               |
-| ------------------------------------------------------------------- | --------------------------------------------------------- |
-| [**MediChain**](https://github.com/HWKDS/MediChain)                 | Blockchain-based drug authenticity verification system 💊 |
-| [**Simple-DNS-Server**](https://github.com/HWKDS/Simple-DNS-Server) | Lightweight DNS server, made from scratch 🌐              |
-| [**METAVERSE**](https://github.com/HWKDS/METAVERSE)                 | Open-source virtual world project 🕶️                     |
-| [**PrivatePing**](https://github.com/HWKDS/privateping)             | Secure private messaging app 🔒                           |
-| [**Enum**](https://github.com/HWKDS/Enum)                           | Shell-based enumeration tool for pentesters 🛠️           |
-| [**Epicare**](https://github.com/HWKDS/Epicare)                     | AI-powered dermatology assistant 🩺                       |
+**[MediChain](https://github.com/HWKDS/MediChain)**  
+Blockchain-based system for verifying drug authenticity.
 
----
+**[Simple DNS Server](https://github.com/HWKDS/Simple-DNS-Server)**  
+Built a DNS server from scratch to understand networking fundamentals.
 
-## 🤝 Open Source & Collabs
+**[PrivatePing](https://github.com/HWKDS/privateping)**  
+Private messaging application with a focus on secure communication.
 
-* Contributed to **METAVERSE**, **PrivatePing**, and other projects via PRs
-* Experimented with AI models & blockchain tools in personal repos
-* Always learning, hacking, and sharing cool stuff
+**[Epicare](https://github.com/HWKDS/Epicare)**  
+AI-based assistant for basic dermatology analysis.
+
+**[Enum](https://github.com/HWKDS/Enum)**  
+Shell-based enumeration tool for security workflows.
 
 ---
 
-## 🌐 Connect with Me
+## Stack
 
-* [LinkedIn](https://www.linkedin.com/in/keshav-dev-sharma)
-* [X](https://x.com/KDSAMF)
+Python, JavaScript, C  
+React, Tailwind  
+Flask, Django, Node.js  
+MongoDB, PostgreSQL  
+Docker, Git, Linux  
+
+---
+
+## Currently
+
+- Practicing Data Structures & Algorithms  
+- Building backend-focused projects  
+- Exploring blockchain and AI  
+
+---
+
+## Contact
+
+📧 keshavdevsharma0902@gmail.com  
+🔗 https://www.linkedin.com/in/keshav-dev-sharma  
