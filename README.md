@@ -13,12 +13,6 @@ Blockchain-based system for verifying drug authenticity.
 **[Simple DNS Server](https://github.com/HWKDS/Simple-DNS-Server)**  
 Built a DNS server from scratch to understand networking fundamentals.
 
-**[PrivatePing](https://github.com/HWKDS/privateping)**  
-Private messaging application with a focus on secure communication.
-
-**[Epicare](https://github.com/HWKDS/Epicare)**  
-AI-based assistant for basic dermatology analysis.
-
 **[Enum](https://github.com/HWKDS/Enum)**  
 Shell-based enumeration tool for security workflows.
 
