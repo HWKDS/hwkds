@@ -23,7 +23,7 @@ Shell-based enumeration tool for security workflows.
 Python, JavaScript, C  
 React, Tailwind  
 Flask, Django, Node.js  
-MongoDB, PostgreSQL  
+MongoDB, MySQL  
 Docker, Git, Linux  
 
 ---
