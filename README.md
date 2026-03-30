@@ -38,5 +38,4 @@ Docker, Git, Linux
 
 ## Contact
 
-📧 keshavdevsharma0902@gmail.com  
-🔗 https://www.linkedin.com/in/keshav-dev-sharma  
+📧 keshavdevsharma0902@gmail.com 
