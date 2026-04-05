@@ -7,11 +7,14 @@ Interested in solving real-world problems using clean and efficient code.
 
 ## Projects
 
-**[MediChain](https://github.com/HWKDS/MediChain)**  
-Blockchain-based system for verifying drug authenticity.
+**[Expense Tracker](https://github.com/HWKDS/expense-tracker)**  
+AI-powered expense tracker that automatically categorizes spending, analyzes habits, and provides smart insights to optimize your finances.
 
 **[Simple DNS Server](https://github.com/HWKDS/Simple-DNS-Server)**  
 Built a DNS server from scratch to understand networking fundamentals.
+
+**[MediChain](https://github.com/HWKDS/MediChain)**  
+Blockchain-based system for verifying drug authenticity.
 
 **[Enum](https://github.com/HWKDS/Enum)**  
 Shell-based enumeration tool for security workflows.
